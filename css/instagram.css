@@ -1,0 +1,36 @@
+.instagram-post{
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.instagram-post.field label.left {
+	float: none;
+	width: auto;
+	padding-top: 20px;
+}
+
+.instagram-post.field .middleColumn{
+	margin: 0 auto;
+}
+
+.instagram-post .optionset{
+	text-align: center;
+}
+
+.instagram-post .optionset li{
+	display: inline-block;
+	width: auto;
+	margin: 0 30px;
+	float: none;
+}
+
+.instagram-post .post{
+	text-align: center;
+}
+
+.instagram-post .post p{
+	background: #ccc;
+	margin-top: 20px;
+	padding: 10px;
+	word-wrap: break-word;
+}

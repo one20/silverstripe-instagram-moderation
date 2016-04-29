@@ -1,0 +1,19 @@
+{
+    "name": "one20/silverstripe-instagram-moderation",
+    "description": "SilverStripe CMS Instagram Moderation",
+    "keywords": ["silverstripe","instagram","moderation","one20"],
+    "homepage": "https://github.com/one20/silverstripe-instagram-moderation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlo Alducente",
+            "email": "carlo@alducente.com",
+            "homepage": "http://alducente.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "silverstripe/cms": ">=3.1"
+    }
+}

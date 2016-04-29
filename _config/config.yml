@@ -1,0 +1,9 @@
+LeftAndMain:
+  extra_requirements_css:
+    - silverstripe-instagram-moderation/css/instagram.css
+Page_Controller:
+  extensions:
+    - InstagramPageControllerExtension
+SiteConfig:
+  extensions:
+    - InstagramSiteConfigExtension
