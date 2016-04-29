@@ -1,6 +1,7 @@
 {
     "name": "one20/silverstripe-instagram-moderation",
     "description": "SilverStripe CMS Instagram Moderation",
+    "type": "silverstripe-module",
     "keywords": ["silverstripe","instagram","moderation","one20"],
     "homepage": "https://github.com/one20/silverstripe-instagram-moderation",
     "license": "MIT",
